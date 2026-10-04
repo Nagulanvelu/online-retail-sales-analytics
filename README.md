@@ -92,9 +92,11 @@ Processing included:
 
 ## 📈 Power BI Dashboard
 
-### Executive Sales Overview
+## 📈 Power BI Dashboard
 
-The dashboard provides an interactive overview of retail performance.
+![Online Retail Sales Analytics Dashboard](powerbi/powerbi-dashboard.png)
+
+### Executive Sales Overview
 
 ### Key KPIs
 
